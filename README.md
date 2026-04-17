@@ -1,4 +1,4 @@
-# PSI-M3-PROGRAMA-AOESTRUTURADA
+# PSI-M3-PROGRAMACAOESTRUTURADA
 # Exercícios de Python – Módulo 3
 
 Este repositório contém os exercícios desenvolvidos em **Python**, no âmbito do **Módulo 3** da disciplina **Programação de Sistemas Informáticos**, do curso profissional **Técnico de Gestão e Programação de Sistemas Informáticos (TGPSI)**.
